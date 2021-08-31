@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="AirPortFinder:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AirPortFinder_jar</output-path>
+    <root id="archive" name="AirPortFinder.jar">
+      <element id="module-output" name="AirPortFinder" />
+    </root>
+  </artifact>
+</component>
